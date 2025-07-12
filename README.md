@@ -19,6 +19,8 @@ This Arduino project uses an ultrasonic sensor (HC-SR04) to measure distance and
 | Buzzer       | 8            |
 | GND/VCC      | GND/5V       |
 
+![Device Image](proximity_device.png)
+
 ## 🚀 Features
 
 - Measures distance from 2 cm to 100 cm
